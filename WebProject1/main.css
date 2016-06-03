@@ -1,0 +1,110 @@
+body{
+/*overflow-x:hidden;*/
+padding:0;
+margin:0;
+}
+button{
+background-image:url(http://www.muralsforkids.com/product_images/a/835/Dots_White_12_inch__20300_zoom.jpg);
+width:20px;
+height:20px;
+border-radius:80%;
+outline:none;
+background-color:black;
+}
+.banner{
+position: relative;
+height :100px;
+font-size: 50;
+font-family:times;
+text-align: center;
+top:45%;
+
+}
+.block{
+ height : 600px;
+ position: relative;
+ color: white;
+}
+
+.block2{
+
+ position:relative;
+ height: 60px;
+ background-color:black;
+
+}
+#image1{
+
+position:relative;
+background:url(http://2.bp.blogspot.com/_UeKpPmoedmk/S88QZmqCh6I/AAAAAAAAARE/IKU34xnbdoc/s1600/Farmland+Blue+Skies+Bliss_long+goodbye+blog.png);
+
+
+}
+
+
+#image2{
+position:relative;
+background:url(https://upload.wikimedia.org/wikipedia/commons/1/13/Green_Grass.JPG);
+
+}
+
+#image3{
+position:relative;
+background:url(http://huskfoods.com/wp-content/uploads/2013/11/earth.jpg);
+
+}
+
+#button1{
+
+
+}
+
+#button2{
+
+
+
+}
+
+#button3{
+
+}
+
+.buttons{
+
+position:relative;
+left:48%;
+bottom:25px;
+
+
+
+}
+
+.potatoGraph{
+line-height:200%;
+
+}
+
+.leftData{
+
+padding-left: 50px;
+
+}
+.rightData{
+
+padding-left: 80px;
+}
+.border{
+
+border-style: solid;
+}
+.pad{
+
+padding-right: 100px;
+}
+
+/*.container{
+width: 50px;
+height: 20px;
+background-color: black;
+}*/
+
