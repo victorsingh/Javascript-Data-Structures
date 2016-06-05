@@ -1,0 +1,98 @@
+body{
+margin: 0;
+padding:0;
+
+}
+
+
+
+#header{
+background-color:black;
+color:white;
+position:fixed;
+width:100%
+}
+
+#pageOne{
+background:url(http://1.bp.blogspot.com/-BwLoFRiMsAs/UGq-ae0Z-9I/AAAAAAAAKmY/r1LNF1ywjKo/s1600/Black+and+White+Wallpapers+1.jpg);
+height: 700px; /*usable : 500px*/
+padding-top:200px;
+}
+
+#pageTwo{
+background:url(http://newevolutiondesigns.com/images/freebies/black-white-background-3.jpg);
+height:500px;
+
+
+}
+#AboutMe{
+
+background-color: rgba(0,0,0,.5);
+margin-bottom: 200px;
+}
+
+#pic{
+border-radius:60%;
+}
+
+
+.row{
+ width:100%;
+ display: flex;
+ 
+}
+.projectContainer{
+ 
+ 
+ border: 1px solid black;
+ height: 200px;
+}
+
+.col-1{
+width: 8.32%;
+}
+
+.col-2{
+width: 16.67%;
+}
+
+.col-3{
+width: 25%;
+}
+
+.col-4{
+width: 33%;
+}
+
+.col-5{
+width: 41.67%;
+}
+
+.col-6{
+width: 50%;
+}
+
+.col-7{
+width: 58.3%;
+}
+
+.col-8{
+width: 66.7%
+}
+
+.col-9{
+width: 75%;
+}
+
+.col-10{
+width:83.3%;
+}
+
+.col-11{
+width:91.67%
+}
+
+
+.col-12{
+width:100%;
+}
